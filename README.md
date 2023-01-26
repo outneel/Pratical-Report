@@ -1,6 +1,6 @@
 # Pratical-Report
 
-As an expansion to our company IT helpedesk support, I was tasked to design and present a plan to board for new office at a new location. 
+As an expansion to our company IT helpdesk support, I was tasked to design and present a plan to board for new office at a new location. 
 With keys ingredients listed below:
 Connect at least 4 computers at each site into one cohesive network.
 Ensure all communication between the sites is secure.
