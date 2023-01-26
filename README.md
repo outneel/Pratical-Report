@@ -1,5 +1,7 @@
 # Pratical-Report
-As an IT support specialits with Spring Computers, have been asked to develop a plan to extend IT helpdesk site office.
+
+As an expansion to our company IT helpedesk support, I was tasked to design and present a plan to board for new office at a new location. 
+With keys ingredients listed below:
 Connect at least 4 computers at each site into one cohesive network.
 Ensure all communication between the sites is secure.
 Ensure each site has a centralised printer connected with all systems.
